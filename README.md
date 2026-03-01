@@ -4,6 +4,14 @@
 
 <p align="center">Tenho 31 anos e sou da cidade de Carapicuíba, SP. Atuo como desenvolvedor Full Stack, com experiência na criação de interfaces modernas, eficientes e responsivas, além do desenvolvimento de APIs e sistemas completos. Trabalho com Javascript, Typescript, NodeJS, React, Docker e PrismaORM, sempre priorizando performance, usabilidade e experiência do usuário.</p>
 
+###
+
+<p>
+Sou formado no curso Full Stack da Rocketseat, onde desenvolvi habilidades em desenvolvimento web completo, trabalhando com front-end e back-end, criação de APIs, banco de dados, boas práticas de programação e projetos práticos voltados ao mercado.
+
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FMU, aprofundando meus conhecimentos em lógica de programação, estrutura de dados, engenharia de software, banco de dados e arquitetura de sistemas.
+</p>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo"  />
   <img width="12" />
