@@ -52,8 +52,9 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FMU, aprofun
 
 ###
 
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GabrielKorver&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=gabrieldealmeidadev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg" />
