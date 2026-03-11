@@ -52,10 +52,11 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FMU, aprofun
 
 ###
 
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gabrieldealmeidadev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrieldealmeidadev&show_icons=true&theme=dracula" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieldealmeidadev&theme=dracula" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldealmeidadev&layout=compact&theme=dracula" height="170"/>
+</p>
 
 <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg" />
 
